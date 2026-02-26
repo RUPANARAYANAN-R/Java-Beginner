@@ -1,5 +1,5 @@
 import java.util.*;
-public class spc {
+public class STONE_PAPER_SCISSOR {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String user= sc.next().toLowerCase();
