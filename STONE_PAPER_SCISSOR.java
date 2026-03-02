@@ -12,9 +12,7 @@ public class STONE_PAPER_SCISSOR {
                 System.out.println("You Win :" +  user);
                 System.out.println("Computer Lose :" + comp);
             }
-            if(!user.equals("stone") &&
-               !user.equals("paper") &&
-               !user.equals("scissor")){
+            if(!user.equals("stone") && !user.equals("paper") && !user.equals("scissor")){
                 System.err.println("Input is Invalid");
            }
     }
