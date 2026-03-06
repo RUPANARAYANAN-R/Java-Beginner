@@ -1,6 +1,6 @@
 public class thiskey {
-    int x;
-    public thiskey(int x){
+    Integer x;
+    public thiskey(Integer x){
         this.x = x;
     }
     public static void main(String[] args) {
